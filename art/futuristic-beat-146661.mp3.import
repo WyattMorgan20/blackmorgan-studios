@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/futuristic-beat-146661.mp3-3655ffb8de9f1feceaf09f4aafb76d69.mp3str"
+
+[deps]
+
+source_file="res://art/futuristic-beat-146661.mp3"
+dest_files=[ "res://.import/futuristic-beat-146661.mp3-3655ffb8de9f1feceaf09f4aafb76d69.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
